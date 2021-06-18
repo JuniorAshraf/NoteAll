@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoteAll2</string>
+    <string name="welcome">Welcome</string>
+    <string name="logintoconti">Log In to Continue</string>
+    <string name="enteremail">Enter Your Email</string>
+    <string name="enterpassword">Enter Your Password</string>
+    <string name="nlogin">Log In</string>
+    <string name="nsignup">Sign Up</string>
+    <string name="forgotpass">Forgot Password</string>
+    <string name="newsignup">New User? Sign Up</string>
+    <string name="nnewuser">New User</string>
+    <string name="recopass">Recover your password</string>
+    <string name="clickrecopass">Click here to recover</string>
+    <string name="regemail">Enter your registered email</string>
+    <string name="gobaclog">Go back to log in screen</string>
+    <string name="wantologin">Want to log in?</string>
+    <string name="nicetosee">Nice to see you here</string>
+
+
+</resources>
